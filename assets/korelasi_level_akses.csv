@@ -1,0 +1,4 @@
+"access_level","data_type","jumlah_transaksi","total_karbon","rata_karbon"
+Public,Geographic,9,2360,262.2222222222222222
+Restricted,Personal,8,2055,256.8750000000000000
+Auditor,Transaction,7,1860,265.7142857142857143

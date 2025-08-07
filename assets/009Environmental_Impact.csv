@@ -1,0 +1,21 @@
+Impact_ID,Conservation_ID,Impact_Type,CO2_Sequestration_Tonnes,Date_Assessed
+I001,C001,Carbon Storage,500,2024-01-20
+I002,C002,Biodiversity,750,2024-02-15
+I003,C003,Soil Erosion,300,2024-03-10
+I004,C004,Carbon Storage,600,2024-04-25
+I005,C005,Biodiversity,450,2024-05-17
+I006,C006,Soil Erosion,800,2024-06-23
+I007,C007,Carbon Storage,350,2024-07-08
+I008,C008,Biodiversity,400,2024-08-30
+I009,C009,Soil Erosion,550,2024-09-15
+I010,C010,Carbon Storage,700,2024-10-20
+I011,C011,Biodiversity,450,2024-11-25
+I012,C012,Soil Erosion,600,2024-12-30
+I013,C013,Carbon Storage,500,2025-01-15
+I014,C014,Biodiversity,750,2025-02-20
+I015,C015,Soil Erosion,300,2025-03-25
+I016,C016,Carbon Storage,650,2025-04-30
+I017,C017,Biodiversity,400,2025-06-05
+I018,C018,Soil Erosion,550,2025-06-10
+I019,C019,Carbon Storage,700,2025-07-15
+I020,C020,Biodiversity,450,2025-07-26

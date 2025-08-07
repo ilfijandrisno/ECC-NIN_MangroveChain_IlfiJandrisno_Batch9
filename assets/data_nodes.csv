@@ -1,0 +1,21 @@
+"conservation_id","location","data_type","access_level","transaction_count"
+C017,Serang,Personal,Restricted,1
+C001,Aceh Jaya,Geographic,Public,2
+C011,Pontianak,Personal,Restricted,1
+C007,Minahasa Selatan,Geographic,Public,1
+C002,Takalar,Personal,Restricted,1
+C012,Karawang,Transaction,Auditor,1
+C010,Kubu Raya,Geographic,Public,1
+C016,Pekalongan,Geographic,Public,1
+C004,Lampung Barat,Geographic,Public,1
+C013,Banyuwangi,Geographic,Public,1
+C005,Bengkulu Utara,Personal,Restricted,1
+C009,Merauke,Transaction,Auditor,1
+C008,Seram Bagian Barat,Personal,Restricted,1
+C018,Tegal,Transaction,Auditor,1
+C006,Labuhan Batu,Transaction,Auditor,1
+C014,Sampit,Personal,Restricted,1
+C003,Tanah Laut,Transaction,Auditor,1
+C019,Jember,Geographic,Public,1
+C015,Sampang,Transaction,Auditor,1
+C020,Blitar,Personal,Restricted,1

@@ -1,0 +1,21 @@
+Validator_ID,Conservation_ID,Validator_Name,Validation_Status,Date_Validated
+V001,C001,Ahmad Syah,Approved,2024-01-17
+V002,C002,Budi Santoso,Approved,2024-02-12
+V003,C003,Citra Dewi,Pending,2024-03-07
+V004,C004,Dedi Pratama,Approved,2024-04-22
+V005,C005,Eka Sari,Approved,2024-05-14
+V006,C006,Fani Wijaya,Pending,2024-06-20
+V007,C007,Gita Lestari,Approved,2024-07-05
+V008,C008,Hadi Kurnia,Approved,2024-08-27
+V009,C009,Indra Putra,Pending,2024-09-12
+V010,C010,Joko Susilo,Approved,2024-10-17
+V011,C011,Kartini Hadi,Pending,2024-11-22
+V012,C012,Lina Wati,Approved,2024-12-27
+V013,C013,Mira Andini,Approved,2025-01-12
+V014,C014,Niko Pratama,Pending,2025-02-17
+V015,C015,Opik Jaya,Approved,2025-03-22
+V016,C016,Pandu Setia,Approved,2025-04-27
+V017,C017,Qori Amalia,Pending,2025-06-01
+V018,C018,Rudi Hartono,Approved,2025-06-07
+V019,C019,Sari Lestari,Pending,2025-07-12
+V020,C020,Tono Wijaya,Approved,2025-07-26

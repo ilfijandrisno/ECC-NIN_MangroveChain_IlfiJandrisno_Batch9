@@ -1,0 +1,21 @@
+Conservation_ID,Location,Area_Ha,Carbon_Credits,Date_Recorded
+C001,Aceh Jaya,50,250,2024-01-15
+C002,Takalar,75,370,2024-02-10
+C003,Tanah Laut,30,150,2024-03-05
+C004,Lampung Barat,60,300,2024-04-20
+C005,Bengkulu Utara,45,220,2024-05-12
+C006,Labuhan Batu,80,400,2024-06-18
+C007,Minahasa Selatan,35,170,2024-07-03
+C008,Seram Bagian Barat,40,200,2024-08-25
+C009,Merauke,55,270,2024-09-10
+C010,Kubu Raya,70,350,2024-10-15
+C011,Pontianak,45,225,2024-11-20
+C012,Karawang,60,300,2024-12-25
+C013,Banyuwangi,50,250,2025-01-10
+C014,Sampit,75,375,2025-02-15
+C015,Sampang,30,150,2025-03-20
+C016,Pekalongan,65,325,2025-04-25
+C017,Serang,40,200,2025-05-30
+C018,Tegal,55,275,2025-06-05
+C019,Jember,70,350,2025-07-10
+C020,Blitar,45,225,2025-07-26

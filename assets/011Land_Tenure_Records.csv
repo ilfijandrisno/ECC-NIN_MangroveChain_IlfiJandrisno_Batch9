@@ -1,0 +1,31 @@
+Tenure_ID,Conservation_ID,Land_Type,Owner,Legal_Document,Boundary_Defined
+T101,C001,State Land,KLHK,HGU-001,Yes
+T102,C002,Community Land,Masyarakat Adat,Adat-002,Yes
+T103,C003,State Land,KLHK,HGU-003,No
+T104,C004,Private Land,PT Mangrove,HGU-004,Yes
+T105,C005,State Land,KLHK,HGU-005,Yes
+T106,C006,Community Land,Masyarakat Adat,Adat-006,No
+T107,C007,State Land,KLHK,HGU-007,Yes
+T108,C008,Private Land,PT Eco,HGU-008,Yes
+T109,C009,Community Land,Masyarakat Adat,Adat-009,No
+T110,C010,State Land,KLHK,HGU-010,Yes
+T111,C011,Private Land,PT Green,HGU-011,Yes
+T112,C012,State Land,KLHK,HGU-012,Yes
+T113,C013,Community Land,Masyarakat Adat,Adat-013,No
+T114,C014,State Land,KLHK,HGU-014,Yes
+T115,C015,Private Land,PT Nature,HGU-015,Yes
+T116,C016,State Land,KLHK,HGU-016,Yes
+T117,C017,Community Land,Masyarakat Adat,Adat-017,No
+T118,C018,State Land,KLHK,HGU-018,Yes
+T119,C019,Private Land,PT Forest,HGU-019,Yes
+T120,C020,State Land,KLHK,HGU-020,Yes
+T121,C021,Community Land,Masyarakat Adat,Adat-021,No
+T122,C022,State Land,KLHK,HGU-022,Yes
+T123,C023,Private Land,PT Eco,HGU-023,Yes
+T124,C024,State Land,KLHK,HGU-024,Yes
+T125,C025,Community Land,Masyarakat Adat,Adat-025,No
+T126,C026,State Land,KLHK,HGU-026,Yes
+T127,C027,Private Land,PT Green,HGU-027,Yes
+T128,C028,State Land,KLHK,HGU-028,Yes
+T129,C029,Community Land,Masyarakat Adat,Adat-029,No
+T130,C030,State Land,KLHK,HGU-030,Yes
