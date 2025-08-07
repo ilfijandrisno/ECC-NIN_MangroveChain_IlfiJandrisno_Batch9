@@ -524,7 +524,7 @@ print(forecast_df)
 2. **Tabel Forecast**:
    - Daftar nilai forecasted_partisipasi dari hasil ARIMA.
 
-![output_arima](img\output_arima.png)
+![output_arima](img/output_arima.png)
 
 ### Manfaat Analisis Ini
 
@@ -1015,4 +1015,4 @@ net.show("blockchain_network.html")
 ```
 
 Hasilnya akan seperti berikut:  
-![pyvis image](img\pyvis.png)
+![pyvis image](img/pyvis.png)
